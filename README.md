@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+    <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=Microsoft Azure&logoColor=white">
     <img src="https://img.shields.io/badge/Netlify-00C7CB?style=for-the-badge&logo=Netlify&logoColor=white">
     <img src="https://img.shields.io/badge/heorku-430098?style=for-the-badge&logo=heroku&logoColor=white">
   </div>
